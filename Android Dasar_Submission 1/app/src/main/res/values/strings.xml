@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Marvel Cinematic Universe</string>
+    <string name="marvel_title">Title</string>
+    <string name="marvel_release">Release</string>
+    <string name="marvel_director">Director</string>
+    <string name="marvel_cast">Cast</string>
+    <string name="marvel_syopsis">Synopsis</string>
+    <string name="back">Back</string>
+    <string name="profile">Profile</string>
+    <string name="detail">Detail</string>
+    <string name="name">Name</string>
+    <string name="myName">Muhammad Naufal Fikriansyah</string>
+    <string name="email">Email </string>
+    <string name="myEmail">naufalfikriansyah99@gmail.com</string>
+    <string name="cast">Cast</string>
+    <string name="release">Release</string>
+    <string name="director">Director</string>
+
+</resources>
